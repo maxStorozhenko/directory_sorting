@@ -8,5 +8,5 @@ Books: fb2, pdf.
 Videos: mp4, avi.
 Photos: jpg, jpeg, png.
 Music: mp3, wav.
-Documents: docx, xlsx, pptx, dox, txt.
+Documents: docx, xlsx, pptx, doс, txt.
 
